@@ -12,7 +12,7 @@ body {
 .container {
     text-align: center;
     background-color: white;
-    padding: 20px;
+    padding: 50px;
     border-radius: 10px;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
 }
@@ -28,7 +28,7 @@ p {
 }
 
 .countdown {
-    margin-top: 20px;
+    margin-top: 50px;
     font-size: 24px;
     color: #999;
 }
